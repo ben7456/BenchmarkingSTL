@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParallelSTL", "ParallelSTL\ParallelSTL.vcxproj", "{B2809CA0-1852-4F93-95EF-9AD62D17DE02}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STLContainers", "STLContainers\STLContainers.vcxproj", "{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B2809CA0-1852-4F93-95EF-9AD62D17DE02}.Release|x64.Build.0 = Release|x64
 		{B2809CA0-1852-4F93-95EF-9AD62D17DE02}.Release|x86.ActiveCfg = Release|Win32
 		{B2809CA0-1852-4F93-95EF-9AD62D17DE02}.Release|x86.Build.0 = Release|Win32
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Debug|x64.ActiveCfg = Debug|x64
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Debug|x64.Build.0 = Debug|x64
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Debug|x86.ActiveCfg = Debug|Win32
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Debug|x86.Build.0 = Debug|Win32
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Release|x64.ActiveCfg = Release|x64
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Release|x64.Build.0 = Release|x64
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Release|x86.ActiveCfg = Release|Win32
+		{37896203-F5F0-4F7B-B3A7-3DC5CCB85C24}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
